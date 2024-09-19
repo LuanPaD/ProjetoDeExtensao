@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AvaliaçãoForms\FrmAgradecimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AvaliaçãoForms\FrmAvaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro\FrmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
