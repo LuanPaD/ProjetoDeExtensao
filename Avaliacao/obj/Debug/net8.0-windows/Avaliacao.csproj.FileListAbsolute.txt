@@ -1,0 +1,16 @@
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\bin\Debug\net8.0-windows\Avaliacao.exe
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\bin\Debug\net8.0-windows\Avaliacao.deps.json
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\bin\Debug\net8.0-windows\Avaliacao.runtimeconfig.json
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\bin\Debug\net8.0-windows\Avaliacao.dll
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\bin\Debug\net8.0-windows\Avaliacao.pdb
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.FrmMain.resources
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.csproj.GenerateResource.cache
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.AssemblyInfoInputs.cache
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.AssemblyInfo.cs
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.dll
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\refint\Avaliacao.dll
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.pdb
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\Avaliacao.genruntimeconfig.cache
+C:\Users\luanp\OneDrive\CTi\Área de Trabalho\Projetos\Avaliacao\obj\Debug\net8.0-windows\ref\Avaliacao.dll
